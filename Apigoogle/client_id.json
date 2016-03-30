@@ -1,0 +1,14 @@
+{
+  "web": {
+    "client_id": "189339861487-ovhddlga76bpgjraio8k6o5gvelmlqk7.apps.googleusercontent.com",
+    "project_id": "static-reach-125904",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "An0Y72n4Cp0mt2WTwxCaODek",
+    "redirect_uris": [
+      "http://localhost:80/multi-api.php"
+    ]
+  }
+}
+
